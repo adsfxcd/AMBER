@@ -60,8 +60,6 @@ A log filename matches its run ID. For example, `run_logs/G01/G01-seed1.log` cor
 
 Verification establishes file consistency, arithmetic, and links between the supplied records. Source observations, including classification-report/scalar differences and nonzero process exit codes, remain visible in the index, audit data, and verification output. Training reproduction and resolution of those observations are outside the scripts' scope.
 
-## Repository conventions
+## NOTE
 
-Data and script filenames use lowercase English words separated by underscores. `README.md` follows the GitHub convention. Group directories and log filenames retain their stable run identifiers.
-
-All file references are relative to this directory. Text files use UTF-8. The [Git attributes](./.gitattributes) preserve file bytes during checkout so that line-ending conversion does not invalidate the SHA-256 manifests. The [ignore rules](./.gitignore) exclude common local caches and temporary files.
+The complete model architecture and detailed training parameters will be released after the paper is accepted.
