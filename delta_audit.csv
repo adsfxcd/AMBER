@@ -1,0 +1,145 @@
+﻿group_id,table,metric,comparison,reference_count,reported_delta,recomputed_from_printed_means,matches_2dp,recomputed_from_unrounded_amber,matches_unrounded_amber_2dp,scope
+G01,2,Acc,original,1,3.81,3.8100000000000023,True,3.808428835489835,True,arithmetic_only_baselines_not_run_verified
+G01,2,Acc,Group 1 mean,8,6.54,6.541249999999998,True,6.5396788354898305,True,arithmetic_only_baselines_not_run_verified
+G01,2,w-F1,original,1,3.32,3.3200000000000003,True,3.324232131403825,True,arithmetic_only_baselines_not_run_verified
+G01,2,w-F1,Group 1 mean,8,7.54,7.536250000000003,True,7.540482131403827,True,arithmetic_only_baselines_not_run_verified
+G02,2,Acc,original,1,3.12,3.1199999999999974,True,3.116062846580405,True,arithmetic_only_baselines_not_run_verified
+G02,2,Acc,Group 1 mean,8,7.17,7.175000000000004,False,7.171062846580412,True,arithmetic_only_baselines_not_run_verified
+G02,2,w-F1,original,1,2.37,2.3700000000000045,True,2.3700869269946097,True,arithmetic_only_baselines_not_run_verified
+G02,2,w-F1,Group 1 mean,8,7.59,7.587500000000006,True,7.587586926994611,True,arithmetic_only_baselines_not_run_verified
+G03,2,Acc,original,1,3.55,3.549999999999997,True,3.553277880468272,True,arithmetic_only_baselines_not_run_verified
+G03,2,Acc,Group 1 mean,8,7.74,7.736249999999998,True,7.739527880468273,True,arithmetic_only_baselines_not_run_verified
+G03,2,w-F1,original,1,2.62,2.6200000000000045,True,2.6210770511919605,True,arithmetic_only_baselines_not_run_verified
+G03,2,w-F1,Group 1 mean,8,8.61,8.612500000000004,True,8.61357705119196,True,arithmetic_only_baselines_not_run_verified
+G04,2,Acc,original,1,3.77,3.769999999999996,True,3.769174368453484,True,arithmetic_only_baselines_not_run_verified
+G04,2,Acc,Group 1 mean,8,8.0,8.001249999999999,True,8.000424368453487,True,arithmetic_only_baselines_not_run_verified
+G04,2,w-F1,original,1,3.23,3.229999999999997,True,3.2262331142502347,True,arithmetic_only_baselines_not_run_verified
+G04,2,w-F1,Group 1 mean,8,8.55,8.558749999999996,False,8.554983114250234,True,arithmetic_only_baselines_not_run_verified
+G05,2,Acc,original,1,5.71,5.709999999999994,True,5.708120764017252,True,arithmetic_only_baselines_not_run_verified
+G05,2,Acc,Group 1 mean,8,9.05,9.047499999999992,True,9.04562076401725,True,arithmetic_only_baselines_not_run_verified
+G05,2,w-F1,original,1,5.12,5.1200000000000045,True,5.119425022270661,True,arithmetic_only_baselines_not_run_verified
+G05,2,w-F1,Group 1 mean,8,9.55,9.548750000000005,True,9.548175022270662,True,arithmetic_only_baselines_not_run_verified
+G06,2,Acc,original,1,3.29,3.289999999999999,True,3.288311768330253,True,arithmetic_only_baselines_not_run_verified
+G06,2,Acc,Group 1 mean,8,8.33,8.3275,True,8.325811768330254,True,arithmetic_only_baselines_not_run_verified
+G06,2,w-F1,original,1,2.68,2.6799999999999997,True,2.675266359135364,True,arithmetic_only_baselines_not_run_verified
+G06,2,w-F1,Group 1 mean,8,9.04,9.044999999999995,True,9.040266359135359,True,arithmetic_only_baselines_not_run_verified
+G07,2,Acc,original,1,1.06,1.0600000000000023,True,1.0557178065311064,True,arithmetic_only_baselines_not_run_verified
+G07,2,Acc,Group 1 mean,8,9.34,9.341250000000002,True,9.336967806531106,True,arithmetic_only_baselines_not_run_verified
+G07,2,w-F1,original,1,0.88,0.8800000000000026,True,0.8841901892682316,True,arithmetic_only_baselines_not_run_verified
+G07,2,w-F1,Group 1 mean,8,10.36,10.356250000000003,True,10.360440189268232,True,arithmetic_only_baselines_not_run_verified
+G08,2,Acc,original,1,3.99,3.989999999999995,True,3.9907147258163818,True,arithmetic_only_baselines_not_run_verified
+G08,2,Acc,Group 1 mean,8,10.33,10.325000000000003,True,10.32571472581639,True,arithmetic_only_baselines_not_run_verified
+G08,2,w-F1,original,1,3.74,3.739999999999995,True,3.741402823899186,True,arithmetic_only_baselines_not_run_verified
+G08,2,w-F1,Group 1 mean,8,11.12,11.1175,True,11.118902823899191,True,arithmetic_only_baselines_not_run_verified
+G09,2,Acc,original,1,0.78,0.7800000000000011,True,0.7797350585335892,True,arithmetic_only_baselines_not_run_verified
+G09,2,Acc,Group 1 mean,8,7.99,7.986249999999998,True,7.985985058533586,True,arithmetic_only_baselines_not_run_verified
+G09,2,w-F1,original,1,0.3,0.29999999999999716,True,0.3004736023861767,True,arithmetic_only_baselines_not_run_verified
+G09,2,w-F1,Group 1 mean,8,9.18,9.182499999999997,True,9.182973602386177,True,arithmetic_only_baselines_not_run_verified
+G10,2,Acc,original,1,5.19,5.189999999999998,True,5.192131854590265,True,arithmetic_only_baselines_not_run_verified
+G10,2,Acc,Group 1 mean,8,10.4,10.401249999999997,True,10.403381854590265,True,arithmetic_only_baselines_not_run_verified
+G10,2,w-F1,original,1,4.69,4.689999999999998,True,4.692262242218696,True,arithmetic_only_baselines_not_run_verified
+G10,2,w-F1,Group 1 mean,8,11.02,11.018749999999997,True,11.021012242218696,True,arithmetic_only_baselines_not_run_verified
+G11,2,Acc,original,1,-0.09,-0.09000000000000341,True,-0.08577942082563084,True,arithmetic_only_baselines_not_run_verified
+G11,2,Acc,Group 1 mean,8,7.75,7.747499999999995,True,7.751720579174368,True,arithmetic_only_baselines_not_run_verified
+G11,2,w-F1,original,1,-0.38,-0.37999999999999545,True,-0.3847314913092106,True,arithmetic_only_baselines_not_run_verified
+G11,2,w-F1,Group 1 mean,8,8.53,8.53875,False,8.534018508690785,True,arithmetic_only_baselines_not_run_verified
+G12,2,Acc,original,1,2.5,2.5,True,2.5000061614294466,True,arithmetic_only_baselines_not_run_verified
+G12,2,Acc,Group 1 mean,8,9.08,9.0775,True,9.077506161429447,True,arithmetic_only_baselines_not_run_verified
+G12,2,w-F1,original,1,1.95,1.9499999999999957,True,1.9543483507236132,True,arithmetic_only_baselines_not_run_verified
+G12,2,w-F1,Group 1 mean,8,9.98,9.974999999999994,False,9.979348350723612,True,arithmetic_only_baselines_not_run_verified
+G13,2,Acc,original,1,4.09,4.090000000000003,True,4.090683918669129,True,arithmetic_only_baselines_not_run_verified
+G13,2,Acc,Group 1 mean,8,12.12,12.121250000000003,True,12.121933918669129,True,arithmetic_only_baselines_not_run_verified
+G13,2,w-F1,original,1,4.02,4.019999999999996,True,4.023425833811174,True,arithmetic_only_baselines_not_run_verified
+G13,2,w-F1,Group 1 mean,8,12.88,12.876249999999999,True,12.879675833811177,True,arithmetic_only_baselines_not_run_verified
+G14,2,Acc,original,1,4.62,4.619999999999997,True,4.623080714725809,True,arithmetic_only_baselines_not_run_verified
+G14,2,Acc,Group 1 mean,8,12.25,12.245000000000005,True,12.248080714725816,True,arithmetic_only_baselines_not_run_verified
+G14,2,w-F1,original,1,4.4,4.399999999999999,True,4.404154391871025,True,arithmetic_only_baselines_not_run_verified
+G14,2,w-F1,Group 1 mean,8,12.8,12.7975,True,12.801654391871025,True,arithmetic_only_baselines_not_run_verified
+G15,2,Acc,original,1,1.09,1.0900000000000034,True,1.0888354898336416,True,arithmetic_only_baselines_not_run_verified
+G15,2,Acc,Group 1 mean,8,11.01,11.006250000000009,True,11.005085489833647,True,arithmetic_only_baselines_not_run_verified
+G15,2,w-F1,original,1,0.72,0.7199999999999989,True,0.7164155381909154,True,arithmetic_only_baselines_not_run_verified
+G15,2,w-F1,Group 1 mean,8,12.05,12.052500000000002,True,12.048915538190919,True,arithmetic_only_baselines_not_run_verified
+G16,2,Acc,original,1,6.74,6.739999999999995,True,6.738040665434383,True,arithmetic_only_baselines_not_run_verified
+G16,2,Acc,Group 1 mean,8,12.08,12.081249999999997,True,12.079290665434385,True,arithmetic_only_baselines_not_run_verified
+G16,2,w-F1,original,1,7.81,7.810000000000002,True,7.81340241397254,True,arithmetic_only_baselines_not_run_verified
+G16,2,w-F1,Group 1 mean,8,12.4,12.39875,True,12.402152413972537,True,arithmetic_only_baselines_not_run_verified
+G17,2,Acc,original,1,1.17,1.1700000000000017,True,1.1724953789279056,True,arithmetic_only_baselines_not_run_verified
+G17,2,Acc,Group 1 mean,8,11.35,11.347500000000004,True,11.349995378927908,True,arithmetic_only_baselines_not_run_verified
+G17,2,w-F1,original,1,0.74,0.7399999999999949,True,0.7360843460496511,True,arithmetic_only_baselines_not_run_verified
+G17,2,w-F1,Group 1 mean,8,12.05,12.058749999999996,False,12.054834346049653,True,arithmetic_only_baselines_not_run_verified
+G18,2,Acc,original,1,2.84,2.8399999999999963,True,2.8441466420209522,True,arithmetic_only_baselines_not_run_verified
+G18,2,Acc,Group 1 mean,8,12.44,12.437499999999993,True,12.441646642020949,True,arithmetic_only_baselines_not_run_verified
+G18,2,w-F1,original,1,1.94,1.9399999999999977,True,1.940851250432999,True,arithmetic_only_baselines_not_run_verified
+G18,2,w-F1,Group 1 mean,8,13.12,13.114999999999995,False,13.115851250432996,True,arithmetic_only_baselines_not_run_verified
+G19,3,Acc,original,1,0.34,0.3399999999999892,True,0.33664832140890155,True,arithmetic_only_baselines_not_run_verified
+G19,3,Acc,Group 1 mean,7,2.6,2.598571428571418,True,2.5952197499803304,True,arithmetic_only_baselines_not_run_verified
+G19,3,w-F1,original,1,0.53,0.5300000000000011,True,0.5264953155686243,True,arithmetic_only_baselines_not_run_verified
+G19,3,w-F1,Group 1 mean,7,2.85,2.848571428571418,True,2.8450667441400412,True,arithmetic_only_baselines_not_run_verified
+G20,3,Acc,original,1,1.36,1.3599999999999994,True,1.3627352779306534,True,arithmetic_only_baselines_not_run_verified
+G20,3,Acc,Group 1 mean,7,4.21,4.210000000000008,True,4.212735277930662,True,arithmetic_only_baselines_not_run_verified
+G20,3,w-F1,original,1,1.25,1.25,True,1.2549069636712886,True,arithmetic_only_baselines_not_run_verified
+G20,3,w-F1,Group 1 mean,7,5.08,5.075714285714284,True,5.0806212493855725,True,arithmetic_only_baselines_not_run_verified
+G21,3,Acc,original,1,1.54,1.5400000000000063,True,1.5372151898734217,True,arithmetic_only_baselines_not_run_verified
+G21,3,Acc,Group 1 mean,7,2.85,2.8514285714285847,True,2.848643761302,True,arithmetic_only_baselines_not_run_verified
+G21,3,w-F1,original,1,1.18,1.1799999999999926,True,1.1801808915739684,True,arithmetic_only_baselines_not_run_verified
+G21,3,w-F1,Group 1 mean,7,3.09,3.0857142857142748,True,3.0858951772882506,True,arithmetic_only_baselines_not_run_verified
+G22,3,Acc,original,1,0.58,0.5799999999999983,True,0.5757952669234925,True,arithmetic_only_baselines_not_run_verified
+G22,3,Acc,Group 1 mean,7,3.2,3.2085714285714317,False,3.204366695494926,True,arithmetic_only_baselines_not_run_verified
+G22,3,w-F1,original,1,0.1,0.09999999999999432,True,0.09634912907641535,True,arithmetic_only_baselines_not_run_verified
+G22,3,w-F1,Group 1 mean,7,3.36,3.367142857142852,False,3.363491986219273,True,arithmetic_only_baselines_not_run_verified
+G23,3,Acc,original,1,0.31,0.30999999999998806,True,0.3126472206934494,True,arithmetic_only_baselines_not_run_verified
+G23,3,Acc,Group 1 mean,7,2.8,2.7928571428571303,False,2.7955043635505916,True,arithmetic_only_baselines_not_run_verified
+G23,3,w-F1,original,1,0.35,0.3500000000000085,True,0.35344581073536574,True,arithmetic_only_baselines_not_run_verified
+G23,3,w-F1,Group 1 mean,7,3.05,3.049999999999997,True,3.0534458107353544,True,arithmetic_only_baselines_not_run_verified
+G24,3,Acc,original,1,0.86,0.8599999999999994,True,0.8559988992845291,True,arithmetic_only_baselines_not_run_verified
+G24,3,Acc,Group 1 mean,7,3.23,3.238571428571433,False,3.2345703278559625,True,arithmetic_only_baselines_not_run_verified
+G24,3,w-F1,original,1,0.92,0.9200000000000017,True,0.9177091073667469,True,arithmetic_only_baselines_not_run_verified
+G24,3,w-F1,Group 1 mean,7,3.51,3.508571428571429,True,3.506280535938174,True,arithmetic_only_baselines_not_run_verified
+G25,3,Acc,original,1,1.9,1.9000000000000057,True,1.8987671986791383,True,arithmetic_only_baselines_not_run_verified
+G25,3,Acc,Group 1 mean,7,3.55,3.548571428571421,True,3.5473386272505536,True,arithmetic_only_baselines_not_run_verified
+G25,3,w-F1,original,1,2.39,2.3900000000000006,True,2.3869454113930715,True,arithmetic_only_baselines_not_run_verified
+G25,3,w-F1,Group 1 mean,7,3.84,3.838571428571427,True,3.835516839964498,True,arithmetic_only_baselines_not_run_verified
+G26,3,Acc,original,1,1.89,1.8900000000000006,True,1.8891359383599422,True,arithmetic_only_baselines_not_run_verified
+G26,3,Acc,Group 1 mean,7,4.83,4.829999999999998,True,4.82913593835994,True,arithmetic_only_baselines_not_run_verified
+G26,3,w-F1,original,1,2.42,2.4200000000000017,True,2.420512235001553,True,arithmetic_only_baselines_not_run_verified
+G26,3,w-F1,Group 1 mean,7,5.46,5.455714285714279,True,5.4562265207158305,True,arithmetic_only_baselines_not_run_verified
+G27,3,Acc,original,1,0.25,0.25,True,0.24825536598788744,True,arithmetic_only_baselines_not_run_verified
+G27,3,Acc,Group 1 mean,7,3.68,3.681428571428583,True,3.6796839374164705,True,arithmetic_only_baselines_not_run_verified
+G27,3,w-F1,original,1,0.27,0.27000000000001023,True,0.2729852036008964,True,arithmetic_only_baselines_not_run_verified
+G27,3,w-F1,Group 1 mean,7,4.0,3.9957142857142856,True,3.9986994893151717,True,arithmetic_only_baselines_not_run_verified
+G28,3,Acc,original,1,2.08,2.0799999999999983,True,2.083632361034674,True,arithmetic_only_baselines_not_run_verified
+G28,3,Acc,Group 1 mean,7,4.49,4.488571428571433,True,4.492203789606108,True,arithmetic_only_baselines_not_run_verified
+G28,3,w-F1,original,1,1.78,1.7800000000000011,True,1.783258438123255,True,arithmetic_only_baselines_not_run_verified
+G28,3,w-F1,Group 1 mean,7,4.71,4.7071428571428555,True,4.710401295266109,True,arithmetic_only_baselines_not_run_verified
+G29,3,Acc,original,1,0.83,0.8299999999999983,True,0.8251623555310914,True,arithmetic_only_baselines_not_run_verified
+G29,3,Acc,Group 1 mean,7,3.59,3.5928571428571416,True,3.5880194983882348,True,arithmetic_only_baselines_not_run_verified
+G29,3,w-F1,original,1,0.7,0.6999999999999886,True,0.7027769103368371,True,arithmetic_only_baselines_not_run_verified
+G29,3,w-F1,Group 1 mean,7,3.87,3.8699999999999903,True,3.872776910336839,True,arithmetic_only_baselines_not_run_verified
+G30,3,Acc,original,1,1.44,1.4399999999999977,True,1.4374353329664302,True,arithmetic_only_baselines_not_run_verified
+G30,3,Acc,Group 1 mean,7,3.91,3.9085714285714346,True,3.906006761537867,True,arithmetic_only_baselines_not_run_verified
+G30,3,w-F1,original,1,1.18,1.1799999999999926,True,1.1830979213597033,True,arithmetic_only_baselines_not_run_verified
+G30,3,w-F1,Group 1 mean,7,4.15,4.1485714285714295,True,4.15166934993114,True,arithmetic_only_baselines_not_run_verified
+G31,3,Acc,original,1,0.58,0.5799999999999983,True,0.5817886626307001,True,arithmetic_only_baselines_not_run_verified
+G31,3,Acc,Group 1 mean,7,3.58,3.578571428571422,True,3.580360091202124,True,arithmetic_only_baselines_not_run_verified
+G31,3,w-F1,original,1,0.96,0.9599999999999937,True,0.9593564062485314,True,arithmetic_only_baselines_not_run_verified
+G31,3,w-F1,Group 1 mean,7,3.97,3.9685714285714226,True,3.9679278348199603,True,arithmetic_only_baselines_not_run_verified
+G32,3,Acc,original,1,1.45,1.4499999999999886,True,1.4538855255916303,True,arithmetic_only_baselines_not_run_verified
+G32,3,Acc,Group 1 mean,7,4.44,4.439999999999998,True,4.443885525591639,True,arithmetic_only_baselines_not_run_verified
+G32,3,w-F1,original,1,1.35,1.3499999999999943,True,1.3515162255932296,True,arithmetic_only_baselines_not_run_verified
+G32,3,w-F1,Group 1 mean,7,5.18,5.175714285714278,True,5.177230511307513,True,arithmetic_only_baselines_not_run_verified
+G33,3,Acc,original,1,0.63,0.6299999999999955,True,0.6301265822784785,True,arithmetic_only_baselines_not_run_verified
+G33,3,Acc,Group 1 mean,7,3.48,3.48142857142858,True,3.4815551537070633,True,arithmetic_only_baselines_not_run_verified
+G33,3,w-F1,original,1,0.8,0.7999999999999972,True,0.8046704722113986,True,arithmetic_only_baselines_not_run_verified
+G33,3,w-F1,Group 1 mean,7,3.85,3.84571428571428,True,3.8503847579256814,True,arithmetic_only_baselines_not_run_verified
+G34,3,Acc,original,1,0.95,0.9499999999999886,True,0.9538855255916303,True,arithmetic_only_baselines_not_run_verified
+G34,3,Acc,Group 1 mean,7,4.11,4.108571428571423,True,4.112456954163065,True,arithmetic_only_baselines_not_run_verified
+G34,3,w-F1,original,1,0.52,0.519999999999996,True,0.5230556291067927,True,arithmetic_only_baselines_not_run_verified
+G34,3,w-F1,Group 1 mean,7,4.31,4.30714285714285,True,4.3101984862496465,True,arithmetic_only_baselines_not_run_verified
+G35,3,Acc,original,1,0.59,0.5899999999999892,True,0.5942267473857896,True,arithmetic_only_baselines_not_run_verified
+G35,3,Acc,Group 1 mean,7,3.69,3.682857142857131,False,3.6870838902429313,True,arithmetic_only_baselines_not_run_verified
+G35,3,w-F1,original,1,0.55,0.5499999999999972,True,0.5499016213430963,True,arithmetic_only_baselines_not_run_verified
+G35,3,w-F1,Group 1 mean,7,3.98,3.9799999999999898,True,3.979901621343089,True,arithmetic_only_baselines_not_run_verified
+G36,3,Acc,original,1,0.97,0.9699999999999989,True,0.9663566318106831,True,arithmetic_only_baselines_not_run_verified
+G36,3,Acc,Group 1 mean,7,3.78,3.78857142857143,False,3.7849280603821143,True,arithmetic_only_baselines_not_run_verified
+G36,3,w-F1,original,1,0.99,0.9900000000000091,True,0.9897898365305338,True,arithmetic_only_baselines_not_run_verified
+G36,3,w-F1,Group 1 mean,7,4.03,4.028571428571439,True,4.028361265101964,True,arithmetic_only_baselines_not_run_verified

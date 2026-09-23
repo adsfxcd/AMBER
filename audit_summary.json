@@ -1,0 +1,13 @@
+{
+  "groups": 36,
+  "metric_stat_cells": 144,
+  "metric_stat_cells_matched": 144,
+  "log_available": 180,
+  "log_metrics_matched": 180,
+  "nonzero_exit_runs": 180,
+  "delta_cells": 144,
+  "delta_cells_matched": 132,
+  "delta_cells_matched_unrounded_amber": 144,
+  "std_ddof": 1,
+  "run_count": 180
+}

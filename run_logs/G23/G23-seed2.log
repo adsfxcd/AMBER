@@ -1,0 +1,244 @@
+# Redacted copy of an existing run log.
+# run_id: G23-seed2
+# dataset: CMU-MOSEI
+# model: GCNet+AMBER
+# imr: (0.7,0.3,0.5)
+# seed_alias: seed2
+# original_log_sha256: 7b81c2e8b8179ba36aa1935b04d2f8a4e7059bc3dd4acc8ac85f41fe9a8cdf61
+# source_record_status: ok
+# source_record_process_return_code: 3221226505
+# L numbers refer to source logical lines; REDACTED/SANITIZED text is editorial.
+L000001 | [SANITIZED] FutureWarning: [dependency deprecation notice; implementation details removed]
+L000002-L000059 | [REDACTED: configuration or implementation details]
+L000060 | [SANITIZED] Seed alias: seed2
+L000061 | [REDACTED: configuration or implementation details]
+L000062 | 
+L000063-L000065 | [REDACTED: batch progress and internal diagnostics]
+L000066 | 
+L000067-L000068 | [REDACTED: batch progress and internal diagnostics]
+L000069 | 
+L000070-L000071 | [REDACTED: batch progress and internal diagnostics]
+L000072-L000074 | [REDACTED: configuration or implementation details]
+L000075 | 
+L000076-L000355 | [REDACTED: batch progress and internal diagnostics]
+L000356 | [Epoch 0] [Time: 23.39]
+L000357 | [Train Loss: 1.0125]
+L000358 | [Train F1: 0.7224753659582083]
+L000359 | [Train Acc: 0.7293915219771625]
+L000360 | [Dev Loss: 0.7758]
+L000361 | [Dev F1: 0.7161781417281138]
+L000362 | [Dev Acc: 0.7482614742698191]
+L000363 | 
+L000364-L000643 | [REDACTED: batch progress and internal diagnostics]
+L000644 | [Epoch 1] [Time: 22.55]
+L000645 | [Train Loss: 0.8872]
+L000646 | [Train F1: 0.7809117914319526]
+L000647 | [Train Acc: 0.7820272172688878]
+L000648 | [Dev Loss: 0.6797]
+L000649 | [Dev F1: 0.7750933036111257]
+L000650 | [Dev Acc: 0.7851182197496523]
+L000651 | 
+L000652-L000934 | [REDACTED: batch progress and internal diagnostics]
+L000935 | [Epoch 2] [Time: 22.69]
+L000936 | [Train Loss: 0.8064]
+L000937 | [Train F1: 0.789474930845305]
+L000938 | [Train Acc: 0.7904739558892538]
+L000939 | [Dev Loss: 0.7703]
+L000940 | [Dev F1: 0.7511922759065532]
+L000941 | [Dev Acc: 0.7454798331015299]
+L000942 | 
+L000943-L001223 | [REDACTED: batch progress and internal diagnostics]
+L001224 | [Epoch 3] [Time: 23.12]
+L001225 | [Train Loss: 0.7631]
+L001226 | [Train F1: 0.8028636318313545]
+L001227 | [Train Acc: 0.8039261692476146]
+L001228 | [Dev Loss: 0.6602]
+L001229 | [Dev F1: 0.7799742452484835]
+L001230 | [Dev Acc: 0.7767732962447844]
+L001231 | 
+L001232-L001513 | [REDACTED: batch progress and internal diagnostics]
+L001514 | [Epoch 4] [Time: 23.15]
+L001515 | [Train Loss: 0.761]
+L001516 | [Train F1: 0.8015074734872528]
+L001517 | [Train Acc: 0.8023619583919912]
+L001518 | [Dev Loss: 0.6503]
+L001519 | [Dev F1: 0.7976611544089937]
+L001520 | [Dev Acc: 0.8004172461752433]
+L001521 | 
+L001522-L001800 | [REDACTED: batch progress and internal diagnostics]
+L001801 | [Epoch 5] [Time: 22.53]
+L001802 | [Train Loss: 0.7319]
+L001803 | [Train F1: 0.8069338952120839]
+L001804 | [Train Acc: 0.8083841701861411]
+L001805 | [Dev Loss: 0.6515]
+L001806 | [Dev F1: 0.7862025381854826]
+L001807 | [Dev Acc: 0.782336578581363]
+L001808 | 
+L001809-L002088 | [REDACTED: batch progress and internal diagnostics]
+L002089 | [Epoch 6] [Time: 22.90]
+L002090 | [Train Loss: 0.6934]
+L002091 | [Train F1: 0.8132480135230753]
+L002092 | [Train Acc: 0.8138589081808227]
+L002093 | [Dev Loss: 0.6227]
+L002094 | [Dev F1: 0.7998835400341764]
+L002095 | [Dev Acc: 0.8031988873435327]
+L002096 | 
+L002097-L002380 | [REDACTED: batch progress and internal diagnostics]
+L002381 | [Epoch 7] [Time: 22.69]
+L002382 | [Train Loss: 0.6557]
+L002383 | [Train F1: 0.825991214893133]
+L002384 | [Train Acc: 0.8266854371969341]
+L002385 | [Dev Loss: 0.5999]
+L002386 | [Dev F1: 0.8120759778904261]
+L002387 | [Dev Acc: 0.8150208623087621]
+L002388 | 
+L002389-L002669 | [REDACTED: batch progress and internal diagnostics]
+L002670 | [Epoch 8] [Time: 22.59]
+L002671 | [Train Loss: 0.6119]
+L002672 | [Train F1: 0.8375840442413826]
+L002673 | [Train Acc: 0.838338808071328]
+L002674 | [Dev Loss: 0.5668]
+L002675 | [Dev F1: 0.8286052598302237]
+L002676 | [Dev Acc: 0.8324061196105702]
+L002677 | 
+L002678-L002957 | [REDACTED: batch progress and internal diagnostics]
+L002958 | [Epoch 9] [Time: 22.77]
+L002959 | [Train Loss: 0.5778]
+L002960 | [Train F1: 0.8426355706287773]
+L002961 | [Train Acc: 0.8438135460660097]
+L002962 | [Dev Loss: 0.5465]
+L002963 | [Dev F1: 0.8376648667504267]
+L002964 | [Dev Acc: 0.8407510431154381]
+L002965 | 
+L002966-L003249 | [REDACTED: batch progress and internal diagnostics]
+L003250 | [Epoch 10] [Time: 23.60]
+L003251 | [Train Loss: 0.5252]
+L003252 | [Train F1: 0.8526853694592069]
+L003253 | [Train Acc: 0.8531988111997497]
+L003254 | [Dev Loss: 0.5365]
+L003255 | [Dev F1: 0.8314201499153059]
+L003256 | [Dev Acc: 0.8358831710709318]
+L003257 | 
+L003258-L003539 | [REDACTED: batch progress and internal diagnostics]
+L003540 | [Epoch 11] [Time: 22.88]
+L003541 | [Train Loss: 0.5022]
+L003542 | [Train F1: 0.8604710153986501]
+L003543 | [Train Acc: 0.8612544971062099]
+L003544 | [Dev Loss: 0.5347]
+L003545 | [Dev F1: 0.8532351990528538]
+L003546 | [Dev Acc: 0.8532684283727399]
+L003547 | 
+L003548-L003829 | [REDACTED: batch progress and internal diagnostics]
+L003830 | [Epoch 12] [Time: 22.88]
+L003831 | [Train Loss: 0.4712]
+L003832 | [Train F1: 0.868344220465999]
+L003833 | [Train Acc: 0.8688409197559831]
+L003834 | [Dev Loss: 0.5251]
+L003835 | [Dev F1: 0.8489231803022036]
+L003836 | [Dev Acc: 0.849095966620306]
+L003837 | 
+L003838-L004121 | [REDACTED: batch progress and internal diagnostics]
+L004122 | [Epoch 13] [Time: 22.75]
+L004123 | [Train Loss: 0.4446]
+L004124 | [Train F1: 0.8709634079502431]
+L004125 | [Train Acc: 0.8715000782105428]
+L004126 | [Dev Loss: 0.5264]
+L004127 | [Dev F1: 0.8376787114032153]
+L004128 | [Dev Acc: 0.8421418636995828]
+L004129 | 
+L004130-L004408 | [REDACTED: batch progress and internal diagnostics]
+L004409 | [Epoch 14] [Time: 22.08]
+L004410 | [Train Loss: 0.4207]
+L004411 | [Train F1: 0.876748497009727]
+L004412 | [Train Acc: 0.8771312372907868]
+L004413 | [Dev Loss: 0.5266]
+L004414 | [Dev F1: 0.844318159350418]
+L004415 | [Dev Acc: 0.8456189151599444]
+L004416 | 
+L004417-L004698 | [REDACTED: batch progress and internal diagnostics]
+L004699 | [Epoch 15] [Time: 22.78]
+L004700 | [Train Loss: 0.3992]
+L004701 | [Train F1: 0.8828896344833885]
+L004702 | [Train Acc: 0.8833880807132801]
+L004703 | [Dev Loss: 0.5617]
+L004704 | [Dev F1: 0.8349449598742626]
+L004705 | [Dev Acc: 0.8331015299026425]
+L004706 | 
+L004707-L004988 | [REDACTED: batch progress and internal diagnostics]
+L004989 | [Epoch 16] [Time: 22.75]
+L004990 | [Train Loss: 0.3726]
+L004991 | [Train F1: 0.8934009516190152]
+L004992 | [Train Acc: 0.8937118723603942]
+L004993 | [Dev Loss: 0.541]
+L004994 | [Dev F1: 0.8342757595044077]
+L004995 | [Dev Acc: 0.8351877607788595]
+L004996 | 
+L004997-L005278 | [REDACTED: batch progress and internal diagnostics]
+L005279 | [Epoch 17] [Time: 22.51]
+L005280 | [Train Loss: 0.3506]
+L005281 | [Train F1: 0.8967051389059714]
+L005282 | [Train Acc: 0.8969967151572031]
+L005283 | [Dev Loss: 0.5443]
+L005284 | [Dev F1: 0.8389497941040116]
+L005285 | [Dev Acc: 0.8386648122392212]
+L005286 | 
+L005287-L005570 | [REDACTED: batch progress and internal diagnostics]
+L005571 | [Epoch 18] [Time: 23.16]
+L005572 | [Train Loss: 0.3362]
+L005573 | [Train F1: 0.9002363274324102]
+L005574 | [Train Acc: 0.9003597684967933]
+L005575 | [Dev Loss: 0.5999]
+L005576 | [Dev F1: 0.8423969502774227]
+L005577 | [Dev Acc: 0.8428372739916551]
+L005578 | 
+L005579-L005860 | [REDACTED: batch progress and internal diagnostics]
+L005861 | [Epoch 19] [Time: 22.86]
+L005862 | [Train Loss: 0.3127]
+L005863 | [Train F1: 0.9063436787748564]
+L005864 | [Train Acc: 0.9065384013765055]
+L005865 | [Dev Loss: 0.5545]
+L005866 | [Dev F1: 0.8307646831050783]
+L005867 | [Dev Acc: 0.8324061196105702]
+L005868 | 
+L005869-L006150 | [REDACTED: batch progress and internal diagnostics]
+L006151 | [Epoch 20] [Time: 22.82]
+L006152 | [Train Loss: 0.2942]
+L006153 | [Train F1: 0.9102552757687112]
+L006154 | [Train Acc: 0.9102925074300016]
+L006155 | [Dev Loss: 0.5688]
+L006156 | [Dev F1: 0.8285159098359006]
+L006157 | [Dev Acc: 0.8303198887343533]
+L006158 | 
+L006159-L006442 | [REDACTED: batch progress and internal diagnostics]
+L006443 | [Epoch 21] [Time: 23.01]
+L006444 | [Train Loss: 0.2788]
+L006445 | [Train F1: 0.914055835313662]
+L006446 | [Train Acc: 0.9142030345690599]
+L006447 | [Dev Loss: 0.5703]
+L006448 | [Dev F1: 0.8341910781249954]
+L006449 | [Dev Acc: 0.8351877607788595]
+L006450 | Early stopping at epoch: 21
+L006451 | Last model
+L006452 |               precision    recall  f1-score   support
+L006453 | 
+L006454 |     Negative     0.8342    0.5444    0.6589      2375
+L006455 |     Positive     0.6520    0.8875    0.7517      2284
+L006456 | 
+L006457 |     accuracy                         0.7126      4659
+L006458 |    macro avg     0.7431    0.7159    0.7053      4659
+L006459 | weighted avg     0.7449    0.7126    0.7044      4659
+L006460 | 
+L006461 | Best model at epoch: 11
+L006462 | Best dev F1: 0.8532351990528538
+L006463 |               precision    recall  f1-score   support
+L006464 | 
+L006465 |     Negative     0.8559    0.5326    0.6566      2375
+L006466 |     Positive     0.6511    0.9067    0.7579      2284
+L006467 | 
+L006468 |     accuracy                         0.7160      4659
+L006469 |    macro avg     0.7535    0.7197    0.7073      4659
+L006470 | weighted avg     0.7555    0.7160    0.7063      4659
+L006471 | 
+L006472 | Best test F1: 0.8363948004176522
+L006473 | Best test Acc: 0.8387451843698404
+L006474 | [SANITIZED] Saved checkpoint: [path and filename removed]

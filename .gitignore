@@ -1,0 +1,10 @@
+# Local Python environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editor, operating-system, and spreadsheet temporary files
+.DS_Store
+Thumbs.db
+~$*.xlsx
