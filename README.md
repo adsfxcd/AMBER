@@ -60,17 +60,6 @@ A log filename matches its run ID. For example, `run_logs/G01/G01-seed1.log` cor
 
 Verification establishes file consistency, arithmetic, and links between the supplied records. Source observations, including classification-report/scalar differences and nonzero process exit codes, remain visible in the index, audit data, and verification output. Training reproduction and resolution of those observations are outside the scripts' scope.
 
-## Dataset features
-
-The following files contain features for the **IEMOCAP** and **CMU-MOSEI** datasets.
-
-| Dataset | Feature file | Size | Download |
-| --- | --- | --- | --- |
-| IEMOCAP | `iemocap_multimodal_features.pkl` | 183.68 MiB | [Download](https://github.com/adsfxcd/AMBER/releases/download/dataset-features-v1/iemocap_multimodal_features.pkl) |
-| CMU-MOSEI | `CMUMOSEI_features_raw_2way.pkl` | 20.55 MiB | [Download](https://github.com/adsfxcd/AMBER/releases/download/dataset-features-v1/CMUMOSEI_features_raw_2way.pkl) |
-
-The files are hosted in the [Dataset Features release](https://github.com/adsfxcd/AMBER/releases/tag/dataset-features-v1). File integrity can be checked using [SHA256SUMS.txt](https://github.com/adsfxcd/AMBER/releases/download/dataset-features-v1/SHA256SUMS.txt).
-
 ## NOTE
 
 The complete model architecture and detailed training parameters will be released after the paper is accepted.
