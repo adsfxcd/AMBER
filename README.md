@@ -8,6 +8,8 @@ The package contains 180 runs across 36 experimental conditions, with five runs 
 
 Open [results_summary.xlsx](./results_summary.xlsx) to browse the results, or use the CSV files for analysis.
 
+Feature files for the IEMOCAP and CMU-MOSEI datasets are available in [Releases](https://github.com/adsfxcd/AMBER/releases/tag/dataset-features-v1).
+
 To verify the package, run the following commands from this directory with Python 3. Both scripts use only the Python standard library.
 
 ```bash
