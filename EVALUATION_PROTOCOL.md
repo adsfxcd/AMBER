@@ -23,8 +23,6 @@ For CMU-MOSEI, the GCNet evaluation implementation returns Non0-filtered Acc and
 
 This reporting difference is visible in all 30 released CMU-MOSEI GCNet+AMBER logs: their printed classification reports have support **4,659**, and their report metrics differ from the final scalar lines. The corresponding MMGCN+AMBER and MM-DFN+AMBER reports apply Non0 filtering before printing; each has support **3,634**, and its report metrics agree with the final scalar lines. These observations are indexed in [run_log_index.csv](./run_log_index.csv).
 
-The code path explains the difference in report populations. The public package supplies final metric lines and aggregate reports, but does not include per-example labels and predictions for an independent recalculation of the reported scalar values.
-
 ## Across-run statistics
 
 For each dataset, backbone, and missing-rate condition, the reported AMBER mean and sample standard deviation are calculated from the five run-level metrics after checkpoint selection. The standard deviation uses `ddof = 1`. See [summary.csv](./summary.csv) and [cell_trace.csv](./cell_trace.csv) for the contributing run IDs and recomputed statistics.
