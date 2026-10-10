@@ -41,6 +41,10 @@ Each script prints a JSON report and returns a nonzero exit status if a verifica
 
 A log filename matches its run ID. For example, `run_logs/G01/G01-seed1.log` corresponds to `G01-seed1` in `runs.csv`. The `L` prefixes in logs refer to line numbers in the source text. Redaction markers account for omitted source lines.
 
+## Evaluation protocol
+
+See [EVALUATION_PROTOCOL.md](./EVALUATION_PROTOCOL.md) for the CMU-MOSEI Non0 rule, checkpoint-selection metric, and GCNet classification-report scope.
+
 ## Definitions and identifiers
 
 - `group_id` identifies a dataset, model, and missing-rate condition. A group contains five runs.

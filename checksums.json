@@ -6,7 +6,7 @@
   "delta_audit.csv": "5882ef0136d19e86ac75bacc648b00659aa2f8e14c5fb8cf0d5339d58f4b38fa",
   "metric_excerpts.jsonl": "18783c95d51e0cf373b3052516b9f2b5bbf5589fcfb2e54c989a5a0c8271d81f",
   "paper_table_values.csv": "da45aefa8ccc855ba323f4b47d6f29aa01a8cb7d1088f2b87f5d8aadf6664494",
-  "README.md": "4a9ec1aa108103fbb6a5597bdddb372bc889e5cc35d2a7af88f53305f4456d58",
+  "README.md": "e3b72283c9960328683d0b7c9cb4440cee89398c975db13b06dbaaa415c848bc",
   "results_summary.xlsx": "6ec1b0f4a3756c498c466a7c3a9c8483ecbfd66ec083779a920b5acd0eb87c84",
   "run_log_checksums.json": "111c6e327ad137e766840b18afdf6422fc94063173bf61e68663c12d630a5a4d",
   "run_log_index.csv": "865c9ba719445ce2a51d1a0e30a36b182ef0970120a95b216f4e91177faa3e11",
@@ -193,5 +193,6 @@
   "runs.csv": "ac9edb50fac65304ecb316d3794b016802841290c3ef92403500d81782e8aa2f",
   "summary.csv": "1e100c866634d18a803e4d929f834c39b872a30bb8787d08fb4490288e259cd3",
   "verify_run_logs.py": "56702ddcb0a4a77971b8ba1832e47c5c39547b8bae1ced8666758e60f41c82e1",
-  "verify_tables.py": "d6caf328fbb3e1379363239af00fdfc807144b9429cd0885b75b794a7321c839"
+  "verify_tables.py": "d6caf328fbb3e1379363239af00fdfc807144b9429cd0885b75b794a7321c839",
+  "EVALUATION_PROTOCOL.md": "db4b69601808ee94f22ac5a00874e32b560d14215feb3a559870111f27b78c98"
 }
