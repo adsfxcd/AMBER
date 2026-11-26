@@ -49,7 +49,6 @@ See [EVALUATION_PROTOCOL.md](./EVALUATION_PROTOCOL.md) for the CMU-MOSEI Non0 ru
 
 - `group_id` identifies a dataset, model, and missing-rate condition. A group contains five runs.
 - `run_id` identifies one run, such as `G01-seed1`.
-- `seed_alias` values `seed1` through `seed5` are aliases within a group. They do not disclose the original numeric random seeds.
 - `imr` lists the missing rates in audio, language, and visual order: `(A, L, V)`.
 - `Acc` is accuracy and `w-F1` is weighted F1. The workbook and CSV metric fields ending in `_pct` store percentage values, such as `61.85`, rather than fractions, such as `0.6185`. Retained log excerpts preserve their source scale.
 - `SD` is the sample standard deviation across the five runs, with `ddof = 1`.
